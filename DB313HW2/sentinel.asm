@@ -49,12 +49,6 @@ while_loop:
 
     j while_loop
 
-    
-    
-# while_loop:
-#     beq 
-
-    
 
 output: 
     beq $t2, $zero, exitFinal
